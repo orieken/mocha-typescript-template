@@ -1,2 +1,7 @@
-# mocha-typescript-template
-mocha-typescript
+# Mocha Typescript Template
+
+# Resources
+* [mochajs]()
+* [typescript]()
+* [eslint]()
+* [prettier]()
